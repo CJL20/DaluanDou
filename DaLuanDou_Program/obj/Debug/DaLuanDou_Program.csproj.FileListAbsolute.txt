@@ -1,0 +1,7 @@
+D:\Unity_Program\DaLuanDou_Program\DaLuanDou_Program\bin\Debug\DaLuanDou_Program.exe.config
+D:\Unity_Program\DaLuanDou_Program\DaLuanDou_Program\bin\Debug\DaLuanDou_Program.exe
+D:\Unity_Program\DaLuanDou_Program\DaLuanDou_Program\bin\Debug\DaLuanDou_Program.pdb
+D:\Unity_Program\DaLuanDou_Program\DaLuanDou_Program\obj\Debug\DaLuanDou_Program.csprojAssemblyReference.cache
+D:\Unity_Program\DaLuanDou_Program\DaLuanDou_Program\obj\Debug\DaLuanDou_Program.csproj.CoreCompileInputs.cache
+D:\Unity_Program\DaLuanDou_Program\DaLuanDou_Program\obj\Debug\DaLuanDou_Program.exe
+D:\Unity_Program\DaLuanDou_Program\DaLuanDou_Program\obj\Debug\DaLuanDou_Program.pdb
